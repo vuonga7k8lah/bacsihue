@@ -1,0 +1,321 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap');
+
+.nav>li>a, h1, h2, h3, h4, h5, h6, p, a, span, strong, button, li {
+    font-family: 'Roboto', 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+.home-row-bottom .col {
+	padding-bottom: 0;
+}
+
+.home-blogs .col-inner {
+	box-shadow: 0px 3px 15px 0px rgb(0 0 0 / 5%);
+}
+
+.home-blogs h5.post-title {
+	height: 45px;
+    overflow: hidden;
+    color: #283b64;
+	display: -webkit-box;
+  	-webkit-line-clamp: 2;
+  	-webkit-box-orient: vertical;
+}
+
+.home-social {
+	background: #283b64;
+    padding: 20px 0px 15px;
+}
+
+.home-social span {
+	color: #fff;
+	font-size: 24px;
+	padding-right: 20px;
+}
+
+.home-social a {
+    margin-bottom: 10px;
+}
+
+.wpcf7 form .wpcf7-response-output {
+	margin: 0.2em 0em 0em;
+}
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+.form-footer .wpcf7-form textarea {
+	min-height: 85px;
+}
+
+#footer ul li {
+    list-style-type: none;
+    margin-left: 0;
+}
+
+#menu-footer img {
+  width: 45px;
+  height: 45px;
+  z-index: 22;
+  position: relative;
+  text-align: center;
+  color: #fff;
+  background: #0273ad;
+  border-radius: 50%;
+  object-fit: contain;
+  padding: 0px;
+}
+
+#menu-footer li.menu-item {
+  margin-top: 10px;
+  margin-left: 0;
+  position: relative;
+	margin-right: 0;
+}
+
+#menu-footer {
+    position: fixed;
+    bottom: 70px;
+    right: 20px;
+    color: white;
+    width: 45px;
+    z-index: 999;
+}
+#menu-footer a {
+  display: block;
+}
+#menu-footer span {
+  background: #028fe3;
+  padding: 10px 15px 10px 25px;
+  color: #fff;
+  border-radius: 0 50px 50px 0;
+  font-weight: 700;
+  font-size: 15px;
+  display: inline-block;
+  margin-left: -15px;
+  z-index: 1;
+  box-shadow: 0 1px 6px rgb(0 0 0 / 6%), 0 2px 32px rgb(0 0 0 / 16%);
+  display: none;
+}
+
+#footer a.back-to-top {
+    background: #028fe3;
+    border: 0;
+    color: #fff;
+    font-size: 20px;
+    line-height: 45px;
+    width: 45px;
+    height: 45px;
+    min-width: 45px;
+    min-height: 45px;
+}
+
+#tu-van .wpcf7-form textarea {
+    min-height: 80px;
+}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+  #menu-footer {
+    width: 35px;
+  }
+  #menu-footer img {
+    width: 35px;
+    height: 35px;
+  }
+  #footer .copyright-footer {
+    font-size: 13px;
+  }
+	.header-main .header-button-2 .header-button > .button:not(.is-outline) {
+		background-color: #da0b0b!important;
+	}
+	.header-inner .show-for-medium.flex-right .nav.mobile-nav {
+		width: 150px !important;
+	}
+}
+
+.nav-dropdown-has-border .nav-dropdown {
+  border: 0;
+  padding: 0;
+}
+
+.nav-dropdown-has-arrow li.current-dropdown.has-dropdown:after, .nav-dropdown-has-arrow li.current-dropdown.has-dropdown:before {
+  display: none;
+}
+
+.nav-dropdown-default .nav-column li>a, .nav-dropdown.nav-dropdown-default>li>a {
+  margin: 0;
+  padding: 13px 15px;
+  line-height: normal;
+  font-size: 15px;
+}
+
+.nav-column>li>a, .nav-dropdown>li>a, .nav-vertical-fly-out>li>a, .nav>li>a {
+  color: #222222;
+}
+
+/** Khao sat chi so **/
+
+.fontsize-20 {
+    font-size: 20px !important;
+}
+
+.fontsize-25 {
+    font-size: 25px !important;
+}
+
+.mb-0{margin-bottom: 0 !important;}
+.ml-0{margin-left: 0 !important;}
+.mb-1{margin-bottom: 0.25rem !important;}
+.ml-1{margin-left: 0.25rem !important;}
+.mb-2{margin-bottom: 0.5rem !important;}
+.ml-2{margin-left: 0.5rem !important;}
+.mb-3{margin-bottom: 1rem !important;}
+.ml-3{margin-left: 1rem !important;}
+.mb-4{margin-bottom: 1.5rem !important;}
+.ml-4{margin-left: 1.5rem !important;}
+.mb-5{margin-bottom: 3rem !important;}
+.ml-5{margin-left: 3rem !important;}
+
+.pb-0{padding-left: 0 !important;}
+.pb-1{padding-bottom: 0.25rem !important;}
+.pb-2{padding-bottom: 0.5rem !important;}
+.pb-3{padding-bottom: 1rem !important;}
+.pb-4{padding-bottom: 1.5rem !important;}
+.pb-5{padding-bottom: 3rem !important;}
+
+input[type="radio" i] {
+    width: 17px;
+    height: 17px;
+}
+
+.btn-suckhoe {
+    margin: 0;
+    font-weight: bold;
+    padding: 0px 55px;
+    border-radius: 30px;
+    background: #007ddd;
+    color: #fff;
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+	animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+@-webkit-keyframes pulse {
+    0% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+
+    50% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1)
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+}
+@keyframes pulse {
+    0% {
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1)
+    }
+
+    50% {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1)
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1)
+    }
+}
+
+/** Popup chuong trinh suc khoe **/
+
+#chuong-trinh-suc-khoe form {
+    margin: 0;
+    padding: 0;
+}
+
+#chuong-trinh-suc-khoe input[type="email"],
+#chuong-trinh-suc-khoe input[type="text"],
+#chuong-trinh-suc-khoe input[type="number"] {
+    box-shadow: none;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+
+#chuong-trinh-suc-khoe .wpcf7-checkbox .wpcf7-list-item {
+    width: 100%;
+}
+
+#chuong-trinh-suc-khoe .wpcf7-checkbox  label {
+    margin-bottom: 0px;
+}
+
+#chuong-trinh-suc-khoe .wpcf7-checkbox input[type="checkbox"] {
+    margin-right: 3px;
+    margin-bottom: 7px;
+}
+
+#chuong-trinh-suc-khoe .wpcf7-checkbox .wpcf7-list-item-label {
+    font-weight: 300;
+    font-size: 14px;
+}
+
+#chuong-trinh-suc-khoe input[type="submit"] {
+    width: 100%;
+    margin: 0;
+    border-radius: 3px;
+    display: inline-block;
+    margin-top: 15px;
+}
+#chuong-trinh-suc-khoe .wpcf7-spinner {
+    display: none;
+}
+
+/** Page Danh Gia Cholesterol **/
+
+#index-cholesterol ul {
+    padding-left: 20px;
+}
+
+#index-cholesterol ul li {
+    margin-bottom: 0;
+    font-style: italic;
+}
+
+.wpcf7-list-item-label {
+	font-weight: 300;
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+.wpcf7-radio .wpcf7-list-item input {
+	margin-bottom: 5px;
+}
+
+#wpcf7-f396-p394-o1 form input[type="submit"] {
+	margin-top: 30px;
+}

@@ -1,0 +1,67 @@
+HTTrack3.49-2 launched on Mon, 22 Jan 2024 09:07:36 at https://bacsihoa.vn/
+(winhttrack https://bacsihoa.vn/ -O "/Users/vuongkma/Downloads/bacsihue" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:08:43	Error: 	"Method Not Allowed" (405) at link https://bacsihoa.vn/xmlrpc.php (from https://bacsihoa.vn/)
+09:09:37	Error: 	"Not Found" (404) at link https://bacsihoa.vn/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/)
+09:10:02	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=394
+09:10:02	Warning: 	File has moved from https://bacsihoa.vn/?p=394 to https://bacsihoa.vn/nhan-qua-tu-bac-si-hoa/
+09:10:02	Error: 	"Not Found" (404) at link https://bacsihoa.vn/nhan-qua-tu-bac-si-hoa/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/nhan-qua-tu-bac-si-hoa/)
+09:10:02	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=29
+09:10:02	Warning: 	File has moved from https://bacsihoa.vn/?p=29 to https://bacsihoa.vn/gioi-thieu/
+09:10:02	Error: 	"Not Found" (404) at link https://bacsihoa.vn/gioi-thieu/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/gioi-thieu/)
+09:10:08	Error: 	"Not Found" (404) at link https://bacsihoa.vn/tin-tuc/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/tin-tuc/)
+09:10:08	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=310
+09:10:08	Warning: 	File has moved from https://bacsihoa.vn/?p=310 to https://bacsihoa.vn/blogs/
+09:10:08	Error: 	"Not Found" (404) at link https://bacsihoa.vn/blogs/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/blogs/)
+09:10:08	Error: 	"Not Found" (404) at link https://bacsihoa.vn/noi-tiet-to-nu/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/noi-tiet-to-nu/)
+09:10:08	Error: 	"Not Found" (404) at link https://bacsihoa.vn/xuong-khop/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/xuong-khop/)
+09:10:08	Error: 	"Not Found" (404) at link https://bacsihoa.vn/tieu-hoa/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/tieu-hoa/)
+09:10:08	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=265
+09:10:08	Warning: 	File has moved from https://bacsihoa.vn/?p=265 to https://bacsihoa.vn/khao-sat-bmi/
+09:10:08	Error: 	"Not Found" (404) at link https://bacsihoa.vn/khao-sat-bmi/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/khao-sat-bmi/)
+09:10:08	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=343
+09:10:08	Warning: 	File has moved from https://bacsihoa.vn/?p=343 to https://bacsihoa.vn/khao-sat-dai-thao-duong/
+09:10:08	Error: 	"Not Found" (404) at link https://bacsihoa.vn/khao-sat-dai-thao-duong/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/khao-sat-dai-thao-duong/)
+09:10:08	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=350
+09:10:08	Warning: 	File has moved from https://bacsihoa.vn/?p=350 to https://bacsihoa.vn/khao-sat-tim-mach/
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/khao-sat-tim-mach/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/khao-sat-tim-mach/)
+09:10:13	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=378
+09:10:13	Warning: 	File has moved from https://bacsihoa.vn/?p=378 to https://bacsihoa.vn/test-nhanh-tram-cam/
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/test-nhanh-tram-cam/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/test-nhanh-tram-cam/)
+09:10:13	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=27
+09:10:13	Warning: 	File has moved from https://bacsihoa.vn/?p=27 to https://bacsihoa.vn/lien-he/
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/lien-he/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/lien-he/)
+09:10:13	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=195
+09:10:13	Warning: 	File has moved from https://bacsihoa.vn/?p=195 to https://bacsihoa.vn/tap-the-duc-lieu-thuoc-phong-ngua-dai-thao-duong-hieu-qua/
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/tap-the-duc-lieu-thuoc-phong-ngua-dai-thao-duong-hieu-qua/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/tap-the-duc-lieu-thuoc-phong-ngua-dai-thao-duong-hieu-qua/)
+09:10:13	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=192
+09:10:13	Warning: 	File has moved from https://bacsihoa.vn/?p=192 to https://bacsihoa.vn/8-thuc-pham-bo-sung-estrogen-noi-tiet-to-cho-phu-nu-khong-nen-bo-qua/
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/8-thuc-pham-bo-sung-estrogen-noi-tiet-to-cho-phu-nu-khong-nen-bo-qua/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/8-thuc-pham-bo-sung-estrogen-noi-tiet-to-cho-phu-nu-khong-nen-bo-qua/)
+09:10:13	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=68
+09:10:13	Warning: 	File has moved from https://bacsihoa.vn/?p=68 to https://bacsihoa.vn/di-tim-nguyen-nhan-cach-xu-ly-khi-bi-dau-cung-co/
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/di-tim-nguyen-nhan-cach-xu-ly-khi-bi-dau-cung-co/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/di-tim-nguyen-nhan-cach-xu-ly-khi-bi-dau-cung-co/)
+09:10:13	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=66
+09:10:13	Warning: 	File has moved from https://bacsihoa.vn/?p=66 to https://bacsihoa.vn/6-cach-khac-phuc-dau-moi-co-gay-tai-nha/
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/6-cach-khac-phuc-dau-moi-co-gay-tai-nha/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/6-cach-khac-phuc-dau-moi-co-gay-tai-nha/)
+09:10:13	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=64
+09:10:13	Warning: 	File has moved from https://bacsihoa.vn/?p=64 to https://bacsihoa.vn/7-bai-tap-danh-cho-benh-nhan-thoai-hoa-cot-song-lung/
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/7-bai-tap-danh-cho-benh-nhan-thoai-hoa-cot-song-lung/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/7-bai-tap-danh-cho-benh-nhan-thoai-hoa-cot-song-lung/)
+09:10:13	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=62
+09:10:13	Warning: 	File has moved from https://bacsihoa.vn/?p=62 to https://bacsihoa.vn/moi-nguy-kinh-nguyet-khong-deu-mang-lai-it-ai-biet/
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/moi-nguy-kinh-nguyet-khong-deu-mang-lai-it-ai-biet/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/moi-nguy-kinh-nguyet-khong-deu-mang-lai-it-ai-biet/)
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/wp-json/wp/v2/users/1 (from https://bacsihoa.vn/author/helloadmin/)
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/author/helloadmin/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/author/helloadmin/)
+09:10:13	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=1
+09:10:13	Warning: 	File has moved from https://bacsihoa.vn/?p=1 to https://bacsihoa.vn/phai-dep-nen-tich-cuc-an-gi-de-tang-noi-tiet-to-nu/
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/phai-dep-nen-tich-cuc-an-gi-de-tang-noi-tiet-to-nu/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/phai-dep-nen-tich-cuc-an-gi-de-tang-noi-tiet-to-nu/)
+09:10:13	Warning: 	Moved Permanently for https://bacsihoa.vn/?p=358
+09:10:13	Warning: 	File has moved from https://bacsihoa.vn/?p=358 to https://bacsihoa.vn/danh-gia-cholesterol/
+09:10:13	Error: 	"Not Found" (404) at link https://bacsihoa.vn/danh-gia-cholesterol/www.tiktok.com/@bacsyhoa (from https://bacsihoa.vn/danh-gia-cholesterol/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 37 seconds : 205 links scanned, 164 files written (7453575 bytes overall) [5498836 bytes received at 35024 bytes/sec], 4454901 bytes transferred using HTTP compression in 144 files, ratio 25%, 9.7 requests per connection
+(24 errors, 32 warnings, 0 messages)
